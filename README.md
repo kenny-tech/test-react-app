@@ -1,3 +1,3 @@
-# store
-A store app with react and context api
+# test-react-component
+Test react component with jest
 # test-react-app
