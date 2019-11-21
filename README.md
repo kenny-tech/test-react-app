@@ -1,3 +1,3 @@
 # test-react-component
 Test react component with jest
-# test-react-app
+# test-react-component
