@@ -1,9 +1,18 @@
 import React, { Component } from 'react';
 
+import Items from './components/Items';
+
 class App extends Component {
-  render(){
+  render() {
+
+    const items = [
+      'Javascript',
+      'React',
+      'Redux'
+    ];
+
     return (  
-      <div>React testing</div>    
+      <Items items={items} />
     );
   }
 }
